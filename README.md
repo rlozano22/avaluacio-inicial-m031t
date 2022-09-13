@@ -3,13 +3,13 @@
 # MP03 Grup 1T
 # Avaluació Inicial
 
-### Nom i cognoms:
+### Nom i cognoms:Raúl Lozano Martín
 
 1. Quin dels tres següents llenguatges de programació està més orientat a desenvolupar aplicacions web **empresarials**?
 
-    a- C/C++
+    
 
-    b- php
+    
 
     c- Java
 
@@ -18,7 +18,7 @@
     Resposta: 
     
     
-    -
+    -No
 
 
 3. Què és compilar un programa?
@@ -26,23 +26,23 @@
     Resposta:
     
     
-    -
+    -No ho sé.
 
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
     Resposta:
 
 
-    -
+    -No ho sé.
 
 5. Quins llenguatges de programació has fet servir?
 
-    Resposta: 
+    Resposta: Cap.
 
 
 6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
 
-    Resposta: 
+    Resposta: No ho sé.
 
 
     -
